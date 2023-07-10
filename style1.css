@@ -1,0 +1,125 @@
+
+  
+
+.fm-left{
+  width: 45%;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 56px;
+  
+  
+}
+.fm-right-12{
+  width: 55%;
+  display: flex;
+  background-color: #e3dfda;
+  padding: 48px 96px;
+
+
+}
+
+
+.bottle-img{
+  width: 345px;
+  height: 375px;
+}
+.bottle-div{
+  display: flex;
+}
+.home-icon{
+  width: 20px;
+  height: 20px;
+  
+}
+.icon-div{
+  margin-right: 8px;
+}
+.inner-nav{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+}
+.home-icon:hover{
+  cursor: pointer;
+  
+}
+.disc-div:hover{
+  cursor: pointer;
+}
+.line-head{
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 24px;
+  color: rgb(155, 146, 146);
+}
+.rate-info{
+  font-weight: bold;
+  display: inline-block;
+}
+.amnt{
+  font-size: 26px;
+  font-weight: 600;
+  color: #ae9479;;
+}
+.purchase-info{
+  display: flex;
+  width: 450px;
+  justify-content: space-between;
+  align-items: center;
+}
+.atc-btn{
+  background-color: #311528;
+  color: white;
+  border: none;
+  padding: 10px 12px;
+  border-radius: 5px;
+}
+.like-icon{
+  width: 26px;
+  height: 26px;
+}
+.share-icon{
+  width: 26px;
+  height: 26px;
+}
+.name{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 400px;
+  justify-content: space-between;
+}
+.name-icon-div{
+  width: 80px;
+  display: flex;
+  justify-content: space-between;
+}
+.notes{
+  font-size: 14px;
+  width: 650px;
+  
+}
+.jst-det{
+  display: flex;
+  flex-direction: column;
+  margin-top: 36px;
+}
+.sec-det{
+  display: flex;
+  flex-direction: row;
+  width: 100px;
+  justify-content: space-between;
+}
+.und-sec-det{
+  width: 200px;
+  margin-top: -10px;
+  border-top: solid 0.5px;
+  border-color: grey;
+}
+.about-info{
+  color: white;
+  line-height: 26px;
+}

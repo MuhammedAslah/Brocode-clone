@@ -1,0 +1,25 @@
+.top-bar{
+  background-color: rgb(49, 21, 40);
+  height: 58.38px;
+}
+.logo-img{
+  width: 130px;
+  height: 50.38px;
+  margin-left: 5px;
+}
+.left-side-top-bar{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+}
+.spirits-li{
+  text-align: center;
+  color:#AE9479 ;
+  font-size: 20px;
+  font-weight: 550;
+  font-family: sans-serif;
+  margin-left: 10px;
+
+
+}
